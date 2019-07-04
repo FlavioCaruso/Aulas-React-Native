@@ -1,3 +1,3 @@
-import { StatusBar} from 'react-native';
+import { StatusBar } from 'react-native';
 
-StatusBar.setBackgroundColor('#DA552F');
+StatusBar.setBackgroundColor("#DA552F");
